@@ -54,7 +54,7 @@ A digital time capsule messenger that allows users to compose messages and sched
 ## 📸 Screenshots
 | 📝 Home Screen | 📆 Message | ✅ Shchedule Delivery  |
 |--------------------|----------------------|------------------------|
-| ([MainPage.png](https://github.com/Charansai1902/time-capsule-messenger/blob/main/%20MainPage.png)) | ([Message](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page2.png)) | ![Confirmation](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page3.png) |
+| [MainPage.png](https://github.com/Charansai1902/time-capsule-messenger/blob/main/%20MainPage.png) | [Message](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page2.png) | ![Confirmation](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page3.png) |
 
 
 ### Frontend Setup
