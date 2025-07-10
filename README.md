@@ -50,6 +50,12 @@ A digital time capsule messenger that allows users to compose messages and sched
 - Node.js (v16 or higher)
 - MongoDB (local or Atlas)
 - Gmail account for email sending
+  
+## 📸 Screenshots
+| 📝 Home Screen | 📆 Message | ✅ Shchedule Delivery  |
+|--------------------|----------------------|------------------------|
+| ![Compose](https://your-image-link.com/compose.png) | ![Schedule](https://your-image-link.com/schedule.png) | ![Confirmation](https://your-image-link.com/confirmation.png) |
+
 
 ### Frontend Setup
 
