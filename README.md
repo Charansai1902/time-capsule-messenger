@@ -52,9 +52,9 @@ A digital time capsule messenger that allows users to compose messages and sched
 - Gmail account for email sending
   
 ## 📸 Screenshots
-| 📝 Home Screen | 📆 Message | ✅ Shchedule Delivery  |
+| 📝 Home Screen | 📆 Message | ✅ Schedule Delivery  |
 |--------------------|----------------------|------------------------|
-| [MainPage.png](https://github.com/Charansai1902/time-capsule-messenger/blob/main/%20MainPage.png) | [Message](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page2.png) | ![Confirmation](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page3.png) |
+| ![MainPage.png](https://github.com/Charansai1902/time-capsule-messenger/blob/main/%20MainPage.png) | ![Message](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page2.png) | ![Confirmation](https://github.com/Charansai1902/time-capsule-messenger/blob/main/Page3.png) |
 
 
 ### Frontend Setup
