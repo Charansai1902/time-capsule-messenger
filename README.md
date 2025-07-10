@@ -54,7 +54,7 @@ A digital time capsule messenger that allows users to compose messages and sched
 ## 📸 Screenshots
 | 📝 Home Screen | 📆 Message | ✅ Shchedule Delivery  |
 |--------------------|----------------------|------------------------|
-| ![Compose](https://your-image-link.com/compose.png) | ![Schedule](https://your-image-link.com/schedule.png) | ![Confirmation](https://your-image-link.com/confirmation.png) |
+| (MainPage.png) | ![Schedule](https://your-image-link.com/schedule.png) | ![Confirmation](https://your-image-link.com/confirmation.png) |
 
 
 ### Frontend Setup
